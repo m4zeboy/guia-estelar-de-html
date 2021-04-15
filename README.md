@@ -45,7 +45,7 @@ Nesse Módulo tomei conhecimento de que é necessário que eu saiba criar docume
 Nesse módulo aprendi que os hiperlinks constituiam os primórdios da web, possibilitando a ligação de um documento com outro através do clique. Além de entender a estrutura de uma âncora e os atributos que necessários para que funcione perfeitamente.
 
 * Connhecendo a tag âncora.
-* Utilizando link: <code>&lt;a href="https://google.com.br"&gt;Clique em mim&lt;/a&gt;</code>
+* Utilizando link: <code>&lt;a href="https://google.com.br"&gt;Clique em mim &lt;/a&gt;</code>
 * Conteúdo dos links.
 * URLS e caminhos.
 * Navegando por diretórios.
