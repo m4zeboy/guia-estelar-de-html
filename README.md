@@ -35,3 +35,13 @@
 * Elementos genéricos.
     * <code>&lt;div&gt;</code>
     * <code>&lt;span&gt;</code>
+
+## Módulo 3 - Links
+
+* Connhecendo a tag âncora.
+* Utilizando link: <code>&lt;a href="https://google.com.br"&gt;Clique em mim&lt;/a&gt;</code>
+* Conteúdo dos links.
+* URLS e caminhos.
+* Navegando por diretórios.
+* Caminhos absolutos e relativos aos diretórios locais.
+* Apresentação do desafio.
