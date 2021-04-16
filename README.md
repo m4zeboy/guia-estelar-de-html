@@ -32,6 +32,8 @@ Nesse Módulo tomei conhecimento de que é necessário que eu saiba criar docume
     * <code>&lt;h1&gt; ... &lt;h6&gt;</code>
     * <code>&lt;p&gt;</code>
 * Listas.
+    * Ordenadas;
+    * Não ordenadas;
 * Citações.
 * Abreviações.
 * Detalhes de contato.
@@ -45,7 +47,7 @@ Nesse Módulo tomei conhecimento de que é necessário que eu saiba criar docume
 Nesse módulo aprendi que os hiperlinks constituiam os primórdios da web, possibilitando a ligação de um documento com outro através do clique. Além de entender a estrutura de uma âncora e os atributos que necessários para que funcione perfeitamente.
 
 * Connhecendo a tag âncora.
-* Utilizando link: <code>&lt;a href="https://google.com.br"&gt;Clique em mim&lt;/a&gt;</code>
+* Utilizando link: <code>&lt;a href="https://google.com.br"&gt;Clique em mim &lt;/a&gt;</code>
 * Conteúdo dos links.
 * URLS e caminhos.
 * Navegando por diretórios.
@@ -61,3 +63,18 @@ Esse módulo me ajudou a entender como estruturar o conteúdo na forma de tabela
 * Organizando a tabela.
 * Deixando a tabela um pouco mais complexa.
 * Exercício de prática.
+
+## Módulo 5 - Head
+
+Nesse módulo compreendi na prática cada detalhezinho acerca da tag head e suas configurações iniciais que, embora não sejam visíveis para o usuário, sem elas a página não funciona corretamente.
+
+* Área de configuração da página: <code>&lt;head&gt;</code>
+* Configuração de metadados:  <code>&lt;meta&gt;</code>
+    * Charset;
+    * Viewport;
+    * Ícone de favoritos.
+    * Configurações de SEO
+        * author;
+        * description;
+        * robots.
+    * Configuração de metadados para redes Sociais.
