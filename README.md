@@ -1,4 +1,4 @@
-# Curso de HTML - "Guia Estelar de HTML" da Rocketseat
+# Curso de HTML - "Guia Estelar de HTML" da Rocketseat"
 
 ## Módulo 1 - Conceitos
 
